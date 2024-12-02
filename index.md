@@ -1,6 +1,6 @@
 
-# <h1> Hello
-### <h3> This is a Project
+# <h1> Hello 
+### <h3> This is a Project 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ sudo su
@@ -13,7 +13,7 @@ root@rocky:/home/qzqc#
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [x] Introduce myself to the world
-# <h1>Hello!
+# <h1> Hello!
 ## <h3> This is a Project
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
