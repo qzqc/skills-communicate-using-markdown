@@ -8,3 +8,7 @@ root@rocky:/home/qzqc# whoami
 root
 root@rocky:/home/qzqc#
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
